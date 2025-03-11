@@ -263,6 +263,7 @@ ul {
     color: #3557f2;
     margin-bottom: 10px;
     margin-right: 10px; /* margin interna para espaçar cada item*/
+    cursor: default;
 }
 .modulos-curso-devclub {
     background-color: rgb(77, 124, 254, 0.2);
@@ -272,6 +273,7 @@ ul {
     color: #3557f2;
     margin-bottom: 10px;
     margin-right: 10px;
+    cursor: default;
 }
 
 .botoes-contato {
@@ -356,19 +358,6 @@ h2 bdi::before {
     height: 5px;
     background-color: #3557f2;
     border-radius: 15px;
-}
-
-.cursor {
-    pointer-events: none;
-    position: fixed;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    top: 40px;
-    left: 200px;
-    background-color: rgb(77, 124, 254, 0.5);
-    z-index: 99;
-    transform: translate(-50%, -50%);
 }
 
 img {
