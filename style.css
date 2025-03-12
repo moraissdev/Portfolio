@@ -71,6 +71,13 @@ body {
     max-width: 100%;
 }
 
+.svg-click {
+    vertical-align: middle;
+    margin-left: 0px;
+    margin-right: -2px;
+    margin-top: -4px;
+}
+
 header {
     display: flex;
     justify-content: space-between;
