@@ -73,9 +73,7 @@ body {
 
 .svg-click {
     vertical-align: middle;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
+    margin-top: -5px;
 }
 
 header {
@@ -152,7 +150,7 @@ ul {
     background-color: #3557f2;
     color: white;
     font-size: 20px;
-    padding: 15px 30px;
+    padding: 18px 30px;
     border-radius: 5px;
     display: inline-block;
     font-weight: bold;
