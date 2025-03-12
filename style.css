@@ -462,7 +462,32 @@ b {
         display: inline;
     }
 
-    .conteudo-sobre p {
+.efeito-menu {
+        transition: transform 0.4s ease-in-out;
+}
+    
+.efeito-menu:hover {
+        transform: translateY(-5px);
+}
+
+.efeito-cursor-fundo-azul:hover {
+    background-color:#3557f2;
+    color: white;
+}
+
+.efeito-cursor {
+    transition: transform 0.4s ease-in-out;
+}
+    
+.efeito-cursor:hover {
+        transform: translateY(-7px);
+}
+
+.menu:hover {
+    color: #3557f2;
+}
+
+.conteudo-sobre p {
     margin-bottom: 20px;
     color: #c3c3c3;
     width: 368px;
