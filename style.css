@@ -269,7 +269,6 @@ ul {
     color: #3557f2;
     margin-bottom: 10px;
     margin-right: 10px; /* margin interna para espaçar cada item*/
-    cursor: default;
 }
 .modulos-curso-devclub {
     background-color: rgb(77, 124, 254, 0.2);
@@ -279,7 +278,6 @@ ul {
     color: #3557f2;
     margin-bottom: 10px;
     margin-right: 10px;
-    cursor: default;
 }
 
 .botoes-contato {
