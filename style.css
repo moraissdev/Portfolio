@@ -540,7 +540,7 @@ b {
 
     .img-aluno-devclub {
         border-radius: 10px;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
 
     .aluno-devclub {
@@ -562,14 +562,14 @@ b {
     .titulo-aluno-devclub {
         color: #ffffff;
         font-size: 30px;
-        margin-bottom: 5px;
+        margin-bottom: 3px;
         text-align: center;
     }
 
     .descricao-aluno-devclub {
         color: #3557f2;
         font-size: 23px;
-        margin-bottom: 6px;
+        margin-bottom: 10px;
         font-weight: 300;
         text-align: center;
     }
