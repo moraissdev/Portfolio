@@ -262,11 +262,10 @@ ul {
 }
 
 .tag-habilidades {
-    background-color: #607d8b14;
         padding: 10px 10px;
         margin-bottom: 10px;
         margin-right: 13px;
-        border-radius: 10px;
+        border-radius: 5px;
         border: 1px solid #ffffff36;
 }
 
@@ -633,13 +632,11 @@ b {
     }
 
     .tag-habilidades {
-        background-color: #607d8b14;
         padding: 10px 10px;
         margin-bottom: 10px;
         margin-right: 13px;
-        border-radius: 10px;
+        border-radius: 5px;
         border: 1px solid #ffffff36;
-        filter: drop-shadow(2px 2px 6px #355f72);
     }
 
     .card-projeto {
