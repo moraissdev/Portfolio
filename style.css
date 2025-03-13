@@ -609,6 +609,7 @@ b {
         width: 100%;
         display: flex;
         justify-content: center;
+        margin-left: 6px;
     }
 
     .modulos-curso-devclub {
