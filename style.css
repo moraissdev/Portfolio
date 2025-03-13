@@ -628,6 +628,8 @@ b {
         color: #3557f2;
         font-size: 20px;
         font-style: italic;
+        justify-content: center;
+        display: flex;
     }
 
     .tag-habilidades {
