@@ -263,12 +263,10 @@ ul {
 
 .tag-habilidades {
     background-color: rgb(77, 124, 254, 0.2);
-    padding: 10px 10px;
-    border-radius: 20px;
-    font-size: 16px;
-    color: #3557f2;
+    padding: 6px 6px;
     margin-bottom: 10px;
-    margin-right: 10px; /* margin interna para espaçar cada item*/
+    margin-right: 10px;
+    border-radius: 10px;
 }
 .modulos-curso-devclub {
     background-color: rgb(77, 124, 254, 0.2);
@@ -629,12 +627,10 @@ b {
 
     .tag-habilidades {
         background-color: rgb(77, 124, 254, 0.2);
-        padding: 10px 10px;
-        border-radius: 20px;
-        font-size: 18px;
-        color: #3557f2;
+        padding: 6px 6px;
         margin-bottom: 10px;
         margin-right: 10px;
+        border-radius: 10px;
     }
 
     .card-projeto {
