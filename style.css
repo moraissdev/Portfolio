@@ -341,8 +341,6 @@ transition: transform 0.4s ease-in-out;
 
 .efeito-cursor:hover {
     transform: translateY(-7px);
-    background-color:#3557f2;
-    color: white;
 }
 
 .efeito-menu {
@@ -447,6 +445,11 @@ b {
     display: none;
 }
 
+.efeito-cursor-fundo-azul:hover {
+    background-color:#3557f2;
+    color: white;
+}
+
 @media (max-width: 768px) {
 
     header {
@@ -465,14 +468,17 @@ b {
         transform: translateY(-5px);
 }
 
+.efeito-cursor-fundo-azul:hover {
+    background-color:#3557f2;
+    color: white;
+}
+
 .efeito-cursor {
     transition: transform 0.4s ease-in-out;
 }
     
 .efeito-cursor:hover {
         transform: translateY(-7px);
-        background-color:#3557f2;
-        color: white;
 }
 
 .menu:hover {
