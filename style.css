@@ -558,6 +558,7 @@ b {
         margin-top: 20px;
         width: 100%;
         justify-content: center;
+        margin-left: 4px;
     }
 
     .grade-projetos {
