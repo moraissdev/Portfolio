@@ -273,7 +273,7 @@ ul {
 .modulos-curso-devclub {
     background-color: rgb(77, 124, 254, 0.2);
     padding: 10px 10px;
-    border-radius: 20px;
+    border-radius: 8px;
     font-size: 16px;
     color: #3557f2;
     margin-bottom: 10px;
@@ -571,6 +571,7 @@ b {
     .img-aluno-devclub {
         border-radius: 10px;
         margin-bottom: 5px;
+        border: 2px solid #607d8b2e;
     }
 
     .aluno-devclub {
@@ -616,7 +617,7 @@ b {
     .modulos-curso-devclub {
         background-color: rgb(77, 124, 254, 0.2);
         padding: 10px 10px;
-        border-radius: 20px;
+        border-radius: 8px;
         font-size: 18px;
         color: #3557f2;
         margin-bottom: 10px;
