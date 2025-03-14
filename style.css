@@ -267,6 +267,8 @@ ul {
         margin-right: 13px;
         border-radius: 10px;
         border: 1px solid #ffffff36;
+        background: none;
+        color: #c3c3c3;
 }
 
 .modulos-curso-devclub {
@@ -620,6 +622,8 @@ h4 {
         margin-right: 13px;
         border-radius: 10px;
         border: 1px solid #ffffff36;
+        background: none;
+        color: #c3c3c3;
     }
 
     .card-projeto {
