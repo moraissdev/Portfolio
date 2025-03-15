@@ -518,7 +518,7 @@ h4 {
         width: 95%;
         outline: 1px solid #ffffff36;
         padding: 7px 7px;
-        border-radius: 15px;
+        border-radius: 25px;
     }
 
     .conteudo-sobre h2 {
@@ -554,7 +554,7 @@ h4 {
 
     .img-aluno-devclub {
         border-radius: 20px;
-        border: 2px solid #607d8b2e;
+        outline: 1px solid #607d8b2e;
         display: flex;
         margin: 0px auto 10px;
         width: 98%;
