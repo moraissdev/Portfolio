@@ -462,7 +462,7 @@ h4 {
         margin-left: 100px;
         margin-right: 100px;
         align-items: center;
-        border-bottom: 0px solid #c3cad51a;
+        border-bottom: none;
         display: inline;
     }
 
@@ -718,7 +718,6 @@ h4 {
             display: flex;
             width: 84.5%;
             margin: auto;
-            border-color: #c3c3c3;
             opacity: 0.3;
         }
 
@@ -726,7 +725,6 @@ h4 {
         display: flex;
         width: 84.5%;
         margin: auto;
-        border-color: #c3c3c3;
         opacity: 0.3;
     }
     }
