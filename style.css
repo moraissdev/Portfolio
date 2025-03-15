@@ -231,7 +231,7 @@ ul {
 }
 
 .img-sobre {
-    background-color: #050708;
+    background-color: #131313;
     border-radius: 10px;
     height: 400px;
 }
@@ -513,6 +513,9 @@ h4 {
         height: auto;
         margin: auto auto 15px auto;
         width: 95%;
+        outline: 1px solid #ffffff36;
+        padding: 5px 5px;
+        border-radius: 12px;
     }
 
     .conteudo-sobre h2 {
