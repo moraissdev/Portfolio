@@ -430,7 +430,7 @@ h4 {
 }
 
 .img-aluno-devclub {
-    border-radius: 10px;
+    border-radius: 20px;
     border: 2px solid #607d8b2e;
 }
 
@@ -547,7 +547,7 @@ h4 {
     }
 
     .img-aluno-devclub {
-        border-radius: 10px;
+        border-radius: 20px;
         margin-bottom: 5px;
         border: 2px solid #607d8b2e;
     }
