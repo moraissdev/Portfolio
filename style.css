@@ -234,6 +234,8 @@ ul {
     background-color: #131313;
     border-radius: 10px;
     height: 400px;
+    padding: 7px 7px;
+    outline: 1px solid #ffffff36;
 }
 
 .conteudo-sobre h2 {
