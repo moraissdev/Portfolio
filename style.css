@@ -232,9 +232,9 @@ ul {
 
 .img-sobre {
     background-color: #131313;
-    border-radius: 10px;
+    border-radius: 25px;
     height: 400px;
-    padding: 7px 7px;
+    padding: 8px 8px;
     outline: 1px solid #ffffff36;
 }
 
@@ -432,8 +432,9 @@ h4 {
 }
 
 .img-aluno-devclub {
-    border-radius: 20px;
-    border: 2px solid #607d8b2e;
+    border-radius: 25px;
+    outline: 2px solid #607d8b2e;
+    padding: 10px 10px;
 }
 
 .devclub-modulos {
