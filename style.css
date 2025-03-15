@@ -408,15 +408,9 @@ b {
     gap: 6px;
 }
 
-.titulo-aluno-devclub {
-    color: #ffffff;
-    font-size: 30px;
-    margin-bottom: 15px;
-}
-
 .descricao-aluno-devclub {
     color: #3557f2;
-    font-size: 22px;
+    font-size: 30px;
     margin-bottom: 10px;
     font-weight: 300;
 }
@@ -574,16 +568,9 @@ h4 {
         margin-bottom: 75px;
     }
 
-    .titulo-aluno-devclub {
-        color: #ffffff;
-        font-size: 30px;
-        margin-bottom: 3px;
-        text-align: center;
-    }
-
     .descricao-aluno-devclub {
         color: #3557f2;
-        font-size: 23px;
+        font-size: 30px;
         margin-bottom: 10px;
         font-weight: 300;
         text-align: center;
